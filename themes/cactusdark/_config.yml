@@ -1,0 +1,52 @@
+nav:
+  主页: /
+  归档: /archives/
+  项目: https://github.com/blackist
+  关于: /about/
+
+projects_url: https://github.com/blackist
+
+customize:
+    gravatar:
+        email:
+    logo:
+        enabled: true
+        width: 48
+        height: 46
+        url: /images/yuti.jpg
+        gravatar: false
+    favicon:
+      # eg. generate with http://realfavicongenerator.net/
+      desktop:
+        url: /images/yuti.ico
+        gravatar: false
+      android:
+        url: /images/favicon-192x192.png
+        gravator: false
+      apple:
+        url: /images/apple-touch-icon.png
+        gravator: false
+    social_links:
+        github: https://github.com/blackist
+        twitter: /
+        facebook: /
+        linkedin: /
+    show_all_posts: false
+    post_count: 5
+    highlight: rainbow
+
+# RSS
+rss: false
+
+# Plugins
+plugins:
+    disqus_shortname: # Disqus Comments Shortname
+    google_analytics: # enter the tracking ID for your Google Analytics
+
+# Miscellaneous
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
