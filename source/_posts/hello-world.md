@@ -1,38 +1,56 @@
 ---
-title: Hello World
+title: Hello YuTi
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to [YuTi's Blog](https://yuti.site)! This is the very first post. This blog is designed with [Hexo](https://hexo.io/zh-cn/). Check [documentation](https://hexo.io/zh-cn/docs/) for more info. 
 
-## Quick Start
 
-### Create a new post
+## Merry Christmas 
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
+### Miss You On This Special Day
 
 ``` bash
-$ hexo server
+  __________________________________________________
+ |                    _                             |
+ | /|,/ _   _ _      / ` /_  _ .  _ _/_ _ _   _    _|
+ |/  / /_' / / /_/  /_, / / / / _\  /  / / / /_| _\ |
+ |             _/                                   |
+ |                  ~~** yuti **~~                  | 
+ |__________________________________________________| 
+ 
+ 
+                       ___
+                    /`   `'.
+                   /   _..---;
+                   |  /__..._/  .--.-.
+                   |.'  e e | ___\_|/____
+                  (_)'--.o.--|    | |    |
+                 .-( `-' = `-|____| |____|
+                /  (         |____   ____|
+                |   (        |_   | |  __|
+                |    '-.--';/'/__ | | (  `|
+                |      '.   \    )"";--`\ /
+                \        ;   |--'    `;.-'
+                |`-.__ ..-'--'`;..--'`    
+              
+ *~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
+### Pretty Everyday
+-----------------------------------------
+![Lovely-YuTi](https://i.imgur.com/t6jIvhM.jpg)
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### Wish You Happy
 
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+> Dear YuTi:
+> 
+> 	I hope you will be happy with us everyday.
+> 
+> 	And I wish you would like this blig.
+> 
+> 	Merry Charistmas!
+> 
+> 	I am always with you.
+> 		

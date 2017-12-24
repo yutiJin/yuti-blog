@@ -77,6 +77,6 @@ theme: cactusdark
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:https://yuti:yuti520@git.coding.net/yuti/yuti.git
-  branch:coding-pages
+  type: git
+  repo: https://yuti:yuti520@git.coding.net/yuti/yuti.git
+  branch: coding-pages
