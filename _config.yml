@@ -80,3 +80,5 @@ deploy:
   type: git
   repo: https://yuti:yuti520@git.coding.net/yuti/yuti.git
   branch: coding-pages
+  
+  
