@@ -17,6 +17,9 @@ block content
         span#busuanzi_container_page_pv= ' | '
           span#busuanzi_value_page_pv
           span= ' ' + __('Hits')
+      if theme.leancloud.enable == true
+        span= ' | views '
+        span.leancloud_visitor
     if theme.disqus
       a.disqus-comment-count(data-disqus-identifier=page.path, href=url_for(page.path) + '#disqus_thread')
     if theme.changyan
@@ -43,6 +46,7 @@ block content
 
     include _partial/tag.pug
     include _partial/post_nav.pug
+    // include _widget/leancloud.pug
 
     if page.comments
       include _partial/comments.pug
