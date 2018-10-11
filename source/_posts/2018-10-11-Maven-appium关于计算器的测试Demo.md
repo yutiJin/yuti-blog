@@ -50,7 +50,6 @@ tags: Appium
 ### 3、创建一个Java Class文件
 
 ```
-
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -60,9 +59,9 @@ import java.util.concurrent.TimeUnit;
 
 public class TestDemo {
     public static void main(String[] args) {
-<!--启动appium-->
+
         DesiredCapabilities capabilities = new DesiredCapabilities();
-<!--虚拟机-->
+       // 虚拟机
 //        capabilities.setCapability("deviceName", "Nexus 5 API 28");
 //        capabilities.setCapability("automationName", "Appium");
 //        capabilities.setCapability("platformName", "Android");
@@ -91,10 +90,7 @@ public class TestDemo {
         }
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
-//        AppiumDriver driver = new AppiumDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
-        
-        driver.findElement(By.id("com.android.bbkcalculator:id/digit1")).click();
+                driver.findElement(By.id("com.android.bbkcalculator:id/digit1")).click();
         driver.findElement(By.id("com.android.bbkcalculator:id/plus")).click();
         driver.findElement(By.id("com.android.bbkcalculator:id/digit5")).click();
         driver.findElement(By.id("com.android.bbkcalculator:id/equal")).click();
@@ -138,18 +134,22 @@ C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\
 ### 2、版本问题
 
 比如一直提示
-`AppiumDriver driver = new AppiumDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);`
+```
+AppiumDriver driver = new AppiumDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
+```
 这句话有错，但是有没有讲出具体错在哪里；比如说CSS选择器有问题
 `Locator Strategy 'css selector' is not supported for this session`
 ，但是也没有具体指出哪里有问题，这些感觉代码都对，但是就是跑不通，能纠结你很久的问题，你都可以考虑考虑是不是Appium和Selenium的版本结合问题。
 
-就是因为这个问题，折磨了我两天，第一天真的是毫无头绪。
-
 你可能会百度到说把他改成
-`AppiumDriver<WebElement> driver = new AppiumDriver<WebElement>(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);`
+```
+AppiumDriver<WebElement> driver = new AppiumDriver<WebElement>(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
+```
 就可以解决问题，经验证这是不可行的，还会在<WebElement>下出现红色波浪线，我现在能确定出现这些问题都是是版本结合的问题。
 
-`pom.xml`文件中的两个版本是我尝试以后可以成功的版本。
+就是因为这个问题，折磨了我很久，刚开始是真的毫无头绪。
+
+哈哈哈，`pom.xml`文件中的两个版本是我尝试以后可以成功的版本。
 
 ### 3、真机上按钮的id如何获取
 
