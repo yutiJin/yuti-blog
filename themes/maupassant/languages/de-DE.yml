@@ -1,22 +1,22 @@
-reading_label: Beiträge in %s
+reading_label: Reading in %s
 blog: Blog
 albums: Alben
-categories: Kategorien
+categories: Categories
 tags: Tags
-archive: Archiv
+archive: Archive
 links: Links
-about: Über
-recent: Letzte
-next: Nächster
-previous: Vorheriger
+about: About
+recent: Recent
+next: Next
+previous: Pre
 notitle: Kein Titel
 blogroll: Blogroll
-history: Chronik
+history: History
 rss: RSS
-guestbook: Gästebuch
-home: Start
-recent_comments: Letzte Kommentare
-Readmore: Mehr lesen
-belongsto: kategorisiert in
-contents: Inhalte
-shareto: Aktie
+guestbook: Guestbook
+home: Home
+recent_comments: Recent Comments
+Readmore: Read More
+belongsto: Belongsto
+contents: Contents
+shareto: Share->
