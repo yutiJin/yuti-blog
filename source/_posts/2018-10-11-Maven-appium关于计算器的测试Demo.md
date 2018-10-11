@@ -2,6 +2,7 @@
 title: Maven+Appium+java关于计算器的测试Demo
 date: 2018-10-11 14:25:44
 categories:
+- 工作
 - 测试
 - Appium
 tags: 
