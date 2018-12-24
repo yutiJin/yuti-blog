@@ -2,7 +2,7 @@
 title: Hexo Aplayer
 date: 2018-04-12 15:17:55
 categories: 
-- 工作
+- WORK
 - MarkDown
 tags: MarkDown
 ---

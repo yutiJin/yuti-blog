@@ -1,8 +1,9 @@
 ---
 title: Hello YuTi
 categories: 
-- 工作
+- WORK
 - MarkDown
+tags: MarkDown
 ---
 Welcome to [YuTi's Blog](https://yuti.site)! This is the very first post. This blog is designed with [Hexo](https://hexo.io/zh-cn/). Check [documentation](https://hexo.io/zh-cn/docs/) for more info. 
 

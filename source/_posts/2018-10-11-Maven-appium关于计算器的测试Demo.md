@@ -2,14 +2,10 @@
 title: Maven+Appium+java关于计算器的测试Demo
 date: 2018-10-11 14:25:44
 categories:
-- 工作
-- 测试
+- WORK
+- Automation Testing
 - Appium
-tags: 
-- Appium
-- 测试
-- java
-- maven
+tags: maven
 ---
 
 这两天一直在解决这个Demo出现的错误，明明之前就已经解出来过，不过一段时间没有接触，就忘的差不多了。以前一直觉得我花了那么多时间，之后肯定不会忘记，哎呀，我还是高估我自己了。所以这次怎么的也得好好记记笔记。
