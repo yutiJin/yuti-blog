@@ -9,7 +9,7 @@ categories:
 ---
 单选：5-12
 
-只有单选，竟然不要出错，🙅
+只有单选，尽量不要出错，🙅
 
 ## 第一章节
 
@@ -51,7 +51,7 @@ categories:
 
 1、教育法的渊源   （管理所有人）
 
-<span style='color:blue'>**《中华人民共和国教育法》**</span>是我国教育的<span style='color:red'>**根本大法**</span>。与<span style='color:red'>**1995**</span>年3月份第八届**全国人民代表大会**第三次会议通过，与9月1号起正式实施。
+<span style='color:blue'>**《中华人民共和国教育法》**</span>是我国教育的<span style='color:red'>**根本大法**</span>。于<span style='color:red'>**1995**</span>年3月份第八届**全国人民代表大会**第三次会议通过，于9月1号起正式实施。
 
 2、教育法的基本结构和内容 （考试重点）
 
