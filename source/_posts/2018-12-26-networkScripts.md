@@ -12,10 +12,14 @@ categories:
 > 
 > NAT模式：虚拟机在访问外网的时候，外网会认为是本机在对他进行访问，但是无法与本局域网内的其他主机进行通讯（即在同一个实验室下，学生相互之间不能通讯 但是可以上网）
 
-下面介绍桥接模式的配置
+![桥接和NAT模式](http://pic.yuti.site/DockerRouter.png)
+
+
+
 
 ## 适配器选择桥接模式
 
+下面介绍桥接模式的配置
 CenterOs 7 中网络适配器选择桥接模式
 ![桥接模式选择](http://pic.yuti.site/bridgeModel.png)
 
