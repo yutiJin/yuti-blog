@@ -1,7 +1,6 @@
 title: Robot Framework环境安装+图标处理+Demo
 date: 2019-01-12 09:33:10
 categories:
-
 - RobotFramework
 tags: 
 - 自动化测试
@@ -183,6 +182,8 @@ TestCase实例：
 ![](http://pic.yuti.site/RF-TestCaseDemo.png)
 
 over！😯
+
+
 
 ## 总结
 
