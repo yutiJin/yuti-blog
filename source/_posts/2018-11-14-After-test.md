@@ -2,8 +2,8 @@
 title: 软件评测师考试结束总结
 date: 2018-11-14 13:25:35
 categories:
-- LIFE
-tags: feeling
+- feeling
+tags: life
 ---
 
 2017年12月10号，软件评测师考试正式开始啦，啦，啦，啦。。。

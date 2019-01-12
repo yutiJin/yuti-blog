@@ -2,9 +2,8 @@
 title: Hexo Aplayer
 date: 2018-04-12 15:17:55
 categories: 
-- WORK
 - MarkDown
-tags: MarkDown
+tags: work
 ---
 
 网易云音乐的因为版权问题，很多好听歌的都无法生成外链，给我们写博客造成了很大的不便。
