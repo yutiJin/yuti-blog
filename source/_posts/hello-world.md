@@ -1,7 +1,6 @@
 ---
 title: Hello YuTi
 categories: 
-- WORK
 - MarkDown
 tags: MarkDown
 ---
@@ -51,10 +50,10 @@ Welcome to [YuTi's Blog](https://yuti.site)! This is the very first post. This b
 > Dear YuTi:
 > 
 > 	I hope you will be happy with us everyday.
-> 
+> 	
 > 	And I wish you would like this blog.
-> 
+> 	
 > 	Merry Charistmas!
-> 
+> 	
 > 	I am always with you.
-> 		
+> 

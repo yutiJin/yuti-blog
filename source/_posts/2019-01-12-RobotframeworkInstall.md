@@ -1,10 +1,12 @@
-title: Robot Framework环境安装+图标处理+Demo
+---
+title: RobotFramework环境安装+图标处理+Demo
 date: 2019-01-12 09:33:10
-categories:
+categories: 
 - RobotFramework
 tags: 
 - 自动化测试
 - work
+---
 
 注意：Robot Framework只支持python2.7以下的（2.7版本的最nice），不支持3以上的哦，不然你会一堆能烦死你的bug。
 
