@@ -55,6 +55,10 @@ donate:
   btc_key: ## Bitcoin key, e.g. 1KuK5eK2BLsqpsFVXXSBG5wbSAwZVadt6L
   paypal_url: ## Paypal URL, e.g. https://paypal.me/tufu9441
 
+SEO:
+  google: lhpP-ynnM1LzlwUYGAFIKYo-NZuA4gYlwDogM3BfPew
+  baidu: x8kML5D742
+
 menu:
   - page: home
     directory: .
