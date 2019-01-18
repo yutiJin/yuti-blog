@@ -121,3 +121,5 @@ export PATH=$PATH:/usr/local/bin/ChromeDriver
 ## 总结
 
 经过以上步骤，你的Robot Framework就安装好，是不是迫不及待的想使用了，哈哈哈，在Terminal中输入`ride.py`即可使用，具体的使用方法和Windows异曲同工，差不多啦，就不重复啦。
+
+再过半个月就可以轻装上阵回家啦。。。
