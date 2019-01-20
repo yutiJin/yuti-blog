@@ -77,8 +77,11 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repo: https://yuti:jyt2511*@git.coding.net/yuti/yuti.git
   branch: coding-pages
-  
+- type: git
+  repo: git@github.com:yutiJin/yutiJin.github.io.git
+  branch: master
+
   
