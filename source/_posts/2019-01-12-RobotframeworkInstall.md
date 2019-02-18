@@ -1,11 +1,12 @@
 ---
-title: Robot Framework自动化网页测试之环境配置及HelloWorld(Windows版)
+title: Robot Framework自动化网页测试之环境配置(Windows版)
 date: 2019-01-12 09:33:10
 categories: 
 - RobotFramework
 tags: 
 - 自动化测试
 - work
+toc: true
 ---
 
 注意：Robot Framework只支持python2.7以下的（2.7版本的最nice），不支持3以上的哦，不然你会一堆能烦死你的bug。
@@ -14,9 +15,6 @@ Robot Framework的主要特点：
 
 **表格型语法 + 关键字驱动 + 数据驱动 + selenium为基础**
 
-好来，来个该篇的环境安装的灵魂 -- 思维导图
-
-![安装和启动](http://pic.yuti.site/RF-ProcessTotally.png)
 
 ## 环境安装
 
@@ -30,7 +28,8 @@ Robot Framework的主要特点：
 
 #### 2、Python环境配置
 
-* 在path下面追加`C:\Python27;C:\Python27\Scripts;`两个目录（如图）
+* 在path下面追加两个目录
+* `C:\Python27;C:\Python27\Scripts;`
 
 ![环境配置](http://pic.yuti.site/RF-EnvironmentConfig.jpg)
 
@@ -62,7 +61,7 @@ pip install robotframework-selenium2library
 
 ### WebDriver安装：
 
-### 1、下载地址
+#### 1、下载地址
 
 * 谷歌：[ChromeDriver](http://chromedriver.storage.googleapis.com/index.html)  
 
@@ -84,13 +83,15 @@ pip install robotframework-selenium2library
 
 进入`C:\Python27\Scripts`找到ride.py，右键选择`打开方式（Python）`打开即可，会有两个弹窗，都要保留着哦。
 
+好了，来个该篇的环境安装的总结灵魂 -- 思维导图
 
+![安装和启动](http://pic.yuti.site/RF-ProcessTotally.png)
 
 ## 快捷方式及图标处理
 
 一定会觉得这样开启不方便是不是，想要一个快捷的方式打开，哈哈，一起来见证
 
-#### 1、创建快捷方式
+### 1、创建快捷方式
 
 * 地址：`C:\Python27\Scripts`
 * 如果没有ride.py的快捷方式，则创建一个；否则只要发送到桌面快捷方式即可
@@ -99,7 +100,7 @@ pip install robotframework-selenium2library
 
 但是有个问题哦，这个图标不好看，想不想换一个，想的话，follow me。
 
-#### 2、修改图标
+### 2、修改图标
 
 * 右键选择属性
 * 点击更换图标按钮
@@ -117,7 +118,7 @@ ok，软件安装、环境配置、图标更换等前期基本工作都做好了
 
 基本路程：Project --> Suite --> Case
 
-#### 1、创建新项目 new project
+### 1、创建新项目 new project
 
 * File --> New Project 或者（Ctrl + N）
 

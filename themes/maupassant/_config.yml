@@ -1,7 +1,7 @@
 fancybox: true ## If you want to use fancybox please set the value to true.
 disqus: ## Your disqus_shortname, e.g. username
 uyan: ## Your uyan_id. e.g. 1234567
-livere: MTAyMC80MjIxOC8xODc2NQ== 
+livere: ## MTAyMC80MjIxOC8xODc2NQ== 
 changyan: ## Your changyan appid, e.g. cyrALsXc8
 changyan_conf: ## Your changyan conf, e.g. prod_d8a508c2825ab57eeb43e7c69bba0e8b
 gitment:
@@ -11,12 +11,13 @@ gitment:
   client_id: ## GitHub client ID, e.g. 75752dafe7907a897619
   client_secret: ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
 gitalk:
-  enable: false ## If you want to use Gitment comment system please set the value to true.
-  owner:  ## Your GitHub ID, e.g. username
-  repo:  ## The repository to store your comments, make sure you're the repo's owner, e.g. gitalk.github.io
-  client_id:  ## GitHub client ID, e.g. 75752dafe7907a897619
-  client_secret:  ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
-  admin:  ## Github repo owner and collaborators, only these guys can initialize github issues.
+  enable: true ## If you want to use Gitment comment system please set the value to true.
+  owner: yutiJin ## Your GitHub ID, e.g. username
+  repo:  yutiJin.github.io ## The repository to store your comments, make sure you're the repo's owner, e.g. gitalk.github.io
+  client_id: dd6c577fdd019428d4ec ## GitHub client ID, e.g. 75752dafe7907a897619
+  client_secret: 2e6d1757411268125157790f74b8eac1cf9f0fd5 ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
+  admin:  yutiJin ## Github repo owner and collaborators, only these guys can initialize github issues.
+  hreftrimend: '#.*$,\\?.*$,index.html$' # 去除 #more、index.html、?query=123 等格式尾部
 valine: ## https://valine.js.org
   enable: false ## If you want to use Valine comment system, please set the value to true.
   appid: ## Your LeanCloud application App ID, e.g. pRBBL2JR4N7kLEGojrF0MsSs-gzGzoHsz
@@ -35,7 +36,7 @@ tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
 self_search: false ## Use a jQuery-based local search engine, true/false.
 google_analytics: ## Your Google Analytics tracking id, e.g. UA-42425684-2
 baidu_analytics: ## Your Baidu Analytics tracking id, e.g. 8006843039519956000
-show_category_count: false ## If you want to show the count of categories in the sidebar widget please set the value to true.
+show_category_count: true ## If you want to show the count of categories in the sidebar widget please set the value to true.
 toc_number: true ## If you want to add list number to toc please set the value to true.
 shareto: false ## If you want to use the share button please set the value to true, you must have hexo-helper-qrcode installed.
 busuanzi: true ## if you want to use busuanzi page views please set the value to true.
@@ -77,14 +78,12 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - search
   - category
   - tag
-  - recent_posts
-  - recent_comments
   - links
 
 links:
   - title: HansomeBoy
     url: https://blackist.org/
-  - title: Github
+  - title: My_Github
     url: https://github.com/yutiJin
 
 timeline:
@@ -108,3 +107,7 @@ css: css
 
 # Theme version
 version: 0.0.0
+
+#post_copyright:
+  #enable: true
+  #author: "yutiJin"
