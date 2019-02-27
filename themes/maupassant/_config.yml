@@ -81,10 +81,13 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: HansomeBoy
+  - title: Handsome Boy
     url: https://blackist.org/
+  - title: Lovely Fang
+    url: https://youzime.github.io/
   - title: My_Github
     url: https://github.com/yutiJin
+  
 
 timeline:
   - num: 1
