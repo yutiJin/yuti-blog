@@ -1,8 +1,6 @@
 ---
 title: 软件评测师考试结束总结
 date: 2018-11-14 13:25:35
-categories:
-- Feeling
 tags: life
 ---
 
