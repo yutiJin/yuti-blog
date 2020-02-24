@@ -50,7 +50,7 @@ Open Eclipse -> help -> Install New Software -> Work with中输入:http://pydev.
 
   
 
-* Step4：如果新建Python工程时，提示如下错误：Project interpreter not specified，请进行一下操作，click Browse for Jython jar -> 选择python.exe的安装位置 -> 导入完成
+* Step4：如果新建Python工程时，提示如下错误：Project interpreter not specified，请进行以下操作，click Browse for Jython jar -> 选择python.exe的安装位置 -> 导入完成
 
   
 
