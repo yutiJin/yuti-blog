@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "aplayer": "^1.10.1",
-    "dplayer": "^1.22.2",
+    "dplayer": "^1.27.0",
     "hexo": "^3.8.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.4",
