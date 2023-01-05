@@ -63,7 +63,7 @@ tags: 考证
 
 看下图：
 
-![课程内容](http://pic.yuti.site/Teach-CourseContent.jpg)
+![课程内容](https://blogres.yuti.site/Teach-CourseContent.jpg)
 
 ### 考点2：课程评价的主要模式
 
@@ -71,7 +71,7 @@ tags: 考证
 单选题(观点)
 ```
 
-![主要模式](http://pic.yuti.site/Teach-Mainmodule.jpg)
+![主要模式](https://blogres.yuti.site/Teach-Mainmodule.jpg)
 
 ## 专题三：基础教育课程改革
 

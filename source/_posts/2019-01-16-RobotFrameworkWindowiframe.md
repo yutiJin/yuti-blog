@@ -34,7 +34,7 @@ MouseOver
 
 源截图：
 
-![](http://pic.yuti.site/RF-MouserOver.jpg)
+![](https://blogres.yuti.site/RF-MouserOver.jpg)
 
 注：
 
@@ -74,7 +74,7 @@ SelectWindow
 
 源截图：
 
-​![](http://pic.yuti.site/RF-SelectWindow.png)
+​![](https://blogres.yuti.site/RF-SelectWindow.png)
 
 注：${name}：定义变量；@{list}：表示数组；&{dict}：表示字典（即键值对）
 
@@ -82,11 +82,11 @@ SelectWindow
 
 如果web页面中存在 iframe 标签，那么必须得切换到要进行操作的frame上，才能正确的进行操作。
 
-![](http://pic.yuti.site/RF-SelectFrameLog.png)
+![](https://blogres.yuti.site/RF-SelectFrameLog.png)
 
 就像这样，我们要使用的select下拉框在iframe下，那么我们就必须得切换到该frame下才能进行之后操作。
 
-![](http://pic.yuti.site/RF-SelectFrameOutside.jpg)
+![](https://blogres.yuti.site/RF-SelectFrameOutside.jpg)
 
 如果我们在select下拉选择星座后，还行对Input进行搜索操作，那就必须得先退出frame，才能对输入框进行输入。请看代码
 
@@ -108,7 +108,7 @@ SelectList
 
 源图片：
 
-![](http://pic.yuti.site/RF-SelectFramePhoto.jpg)
+![](https://blogres.yuti.site/RF-SelectFramePhoto.jpg)
 
 注：F12调出开发者工具，找到相对应的元素，右键选中copy --> copy XPath即可完成元素选择
 

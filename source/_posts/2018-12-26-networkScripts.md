@@ -12,7 +12,7 @@ tags: work
 > 
 > NAT模式：虚拟机在访问外网的时候，外网会认为是本机在对他进行访问，但是无法与本局域网内的其他主机进行通讯（即在同一个实验室下，学生相互之间不能通讯 但是可以上网）
 
-![桥接和NAT模式](http://pic.yuti.site/DockerRouter.png)
+![桥接和NAT模式](https://blogres.yuti.site/DockerRouter.png)
 
 
 
@@ -21,7 +21,7 @@ tags: work
 
 下面介绍桥接模式的配置
 CenterOs 7 中网络适配器选择桥接模式
-![桥接模式选择](http://pic.yuti.site/bridgeModel.png)
+![桥接模式选择](https://blogres.yuti.site/bridgeModel.png)
 
 ## 网卡地址修改
 
@@ -31,7 +31,7 @@ CenterOs 7 中网络适配器选择桥接模式
 ipconfig /all
 ```
 或者以下方式进行查看
-![img](http://pic.yuti.site/DNS.png)
+![img](https://blogres.yuti.site/DNS.png)
 
 
 2、linux中通过以下命令进入编辑区
@@ -56,10 +56,10 @@ DNS1=10.11.248.114      //根据下图进行选择（这个必须对，不让就
                         //浪费了不少时间，这一定要注意
 ```
 
-![img](http://pic.yuti.site/DNS1.png)
+![img](https://blogres.yuti.site/DNS1.png)
 
 3、查看虚拟网络编辑是否合理
-![](http://pic.yuti.site/AutoBridgeModel.png)
+![](https://blogres.yuti.site/AutoBridgeModel.png)
 
 4、重启
 
@@ -103,7 +103,7 @@ iptables -A INPUT -s 192.168.11.0/24 -p tcp --dport 22 -j ACCEPT
 
 2、打开下载好的Xshell，然后配置虚拟机的IP（192.168.11.158）
 
-![添加新的被控器](http://pic.yuti.site/Xshell.png)
+![添加新的被控器](https://blogres.yuti.site/Xshell.png)
 
 
 3、如果不能ping成功，则把Windows和虚拟机的防火墙都删掉

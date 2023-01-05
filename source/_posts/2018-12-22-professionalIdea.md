@@ -53,7 +53,7 @@ tags: 考证
 （第一条和第二条相关联，分析出其中一条，第二条也写上）
 
 
-![教育观](http://pic.yuti.site/teach.png)
+![教育观](https://blogres.yuti.site/teach.png)
 
 
 分析材料题的答题格式：
@@ -94,7 +94,7 @@ tags: 考证
 - 促进学生全面发展
 - 面向全体学生
 
-![以人为本的学生观](http://pic.yuti.site/student.png)
+![以人为本的学生观](https://blogres.yuti.site/student.png)
 
 3、以人为本的学生观强调那些差异的共同发展
 
@@ -134,7 +134,7 @@ tags: 考证
 - 在对待自我上，新课程强调反思
 - 在对待与其他教育者的关系上，新课程强调合作
 
-![教师观](http://pic.yuti.site/teacher.png)
+![教师观](https://blogres.yuti.site/teacher.png)
 
 4、教师的定义：教师是履行教育职责的专业人员，承担教书育人、培养社会主义事业建设者和接班人，提高民族素质的使命
 

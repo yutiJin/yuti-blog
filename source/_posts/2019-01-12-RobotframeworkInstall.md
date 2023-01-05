@@ -31,7 +31,7 @@ Robot Framework的主要特点：
 * 在path下面追加两个目录
 * `C:\Python27;C:\Python27\Scripts;`
 
-![环境配置](http://pic.yuti.site/RF-EnvironmentConfig.jpg)
+![环境配置](https://blogres.yuti.site/RF-EnvironmentConfig.jpg)
 
 注：Python3版本和Python2.7版本能共存，但是如果有两个2.7版本就会出错，竟然你觉得你步骤啥的都没有错，可就是不对，唉，我就是因为共存了两个2.7版本的Python，然后，嗯呢，炸裂
 
@@ -75,7 +75,7 @@ pip install robotframework-selenium2library
 
 下载后解压的WebDriver放在` C:\Python27` 文件夹中（如图）
 
-![webdriver](http://pic.yuti.site/RF-WebDriver.jpg)
+![webdriver](https://blogres.yuti.site/RF-WebDriver.jpg)
 
 ### 启动：
 
@@ -85,7 +85,7 @@ pip install robotframework-selenium2library
 
 好了，来个该篇的环境安装的总结灵魂 -- 思维导图
 
-![安装和启动](http://pic.yuti.site/RF-ProcessTotally.png)
+![安装和启动](https://blogres.yuti.site/RF-ProcessTotally.png)
 
 ## 快捷方式及图标处理
 
@@ -96,7 +96,7 @@ pip install robotframework-selenium2library
 * 地址：`C:\Python27\Scripts`
 * 如果没有ride.py的快捷方式，则创建一个；否则只要发送到桌面快捷方式即可
 
-![ride.py快捷方式](http://pic.yuti.site/RF-RIDEPy.jpg)
+![ride.py快捷方式](https://blogres.yuti.site/RF-RIDEPy.jpg)
 
 但是有个问题哦，这个图标不好看，想不想换一个，想的话，follow me。
 
@@ -108,7 +108,7 @@ pip install robotframework-selenium2library
 
 这样就可以啦，啦，啦，啦，开心。
 
-![robot图标](http://pic.yuti.site/RF-RobotIco.jpg)
+![robot图标](https://blogres.yuti.site/RF-RobotIco.jpg)
 
 
 
@@ -122,7 +122,7 @@ ok，软件安装、环境配置、图标更换等前期基本工作都做好了
 
 * File --> New Project 或者（Ctrl + N）
 
-![new project](http://pic.yuti.site/RF-Newproject.png)
+![new project](https://blogres.yuti.site/RF-Newproject.png)
 
 注：选择directory原因是，在directory的项目下可以创建测试套件，如果是tpye为file，则只能创建测试用例，这不利于用例的管理。
 
@@ -132,7 +132,7 @@ ok，软件安装、环境配置、图标更换等前期基本工作都做好了
 
 * project右键New Suite 或者（Ctrl + Shift + F）
 
-![new suite](http://pic.yuti.site/RF-Newsuite.jpg)
+![new suite](https://blogres.yuti.site/RF-Newsuite.jpg)
 
 注：选择file原因是，在file的测试套件下可以创建测试用例，如果是tpye为directory，还得重新再继续建file的测试套件，才能创建测试用例，因为测试用例只能在file类型下创建。
 
@@ -140,11 +140,11 @@ ok，软件安装、环境配置、图标更换等前期基本工作都做好了
 
 * suite右键New Test Case 或者（Ctrl + Shift + T）
 
-![new test case](http://pic.yuti.site/RF-Newtestcase.png)
+![new test case](https://blogres.yuti.site/RF-Newtestcase.png)
 
 over, 最终显示如下，那你就成功一半啦：
 
-![finally show](http://pic.yuti.site/RF-testdemoshow.png)
+![finally show](https://blogres.yuti.site/RF-testdemoshow.png)
 
 #### 4、导入库
 
@@ -155,13 +155,13 @@ over, 最终显示如下，那你就成功一半啦：
 * 在弹出输入框中输入：Selenium2Library （要注意大小写）
 * 点击 OK 完成
 
-![add library](http://pic.yuti.site/RF-AddLibrary.png)
+![add library](https://blogres.yuti.site/RF-AddLibrary.png)
 
 注：如果导入的库显示为红色，表示导入的库不存在；如果是黑色则表示导入成功。其中RF有个bug就是不能自动刷新，因此你发现自己如果是红色，不着急，你先刷新一下，如果还是红色，那就只能重新添加一遍了
 
 Robot Framework所支持的测试非常丰富，如下图：
 
-![](http://pic.yuti.site/RF-SupportLibrary.png)
+![](https://blogres.yuti.site/RF-SupportLibrary.png)
 
 
 
@@ -169,11 +169,11 @@ Robot Framework所支持的测试非常丰富，如下图：
 
 Case书写界面：
 
-![write test case](http://pic.yuti.site/RF-WriteCase.png)
+![write test case](https://blogres.yuti.site/RF-WriteCase.png)
 
 TestCase实例：
 
-![](http://pic.yuti.site/RF-TestCaseDemo.png)
+![](https://blogres.yuti.site/RF-TestCaseDemo.png)
 
 注：按F8启动，如果报错pybot的错误，你看看你有没有pybot.bat文件
 
@@ -182,7 +182,7 @@ TestCase实例：
 
 你可能会说，我怎么知道哪些是关键字，嘻嘻，我也不知道，那么我们就可以按F5快捷键来打来帮助文档查看关键字，下图为一个例子：
 
-![](http://pic.yuti.site/RF-TestCaseDemo.png)
+![](https://blogres.yuti.site/RF-TestCaseDemo.png)
 
 over！😯
 

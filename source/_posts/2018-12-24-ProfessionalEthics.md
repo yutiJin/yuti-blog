@@ -122,7 +122,7 @@ tags: 考证
 
 
 
-![教师职业道德](http://pic.yuti.site/ProfessionalEthics.png)
+![教师职业道德](https://blogres.yuti.site/ProfessionalEthics.png)
 
 <span style='color:red'>**2、范例：**</span>
 

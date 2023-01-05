@@ -26,7 +26,7 @@ tags: 考证
   - 清朝末年实行“中体西用”的教育指导思想体现了教育的<span style='color:blue'>历史性</span>
   - "自有人生，便有教育。"这句话体现了教育具有<span style='color:blue'>永恒性</span>
 
-![](http://pic.yuti.site/Teach-TeachAttribute.jpg)
+![](https://blogres.yuti.site/Teach-TeachAttribute.jpg)
 
 ### 考点2：教育的起源
 
@@ -42,7 +42,7 @@ tags: 考证
 | 心理起源说     | 心理仿梦露（孟禄） |
 | 劳动起源说     | 米凯爱劳动         |
 
-![](http://pic.yuti.site/Teach-TeachOrigin.jpg)
+![](https://blogres.yuti.site/Teach-TeachOrigin.jpg)
 
 
 
@@ -75,14 +75,14 @@ tags: 考证
 
 
 
-![](http://pic.yuti.site/Teach-TeachAncientTimes.jpg)
+![](https://blogres.yuti.site/Teach-TeachAncientTimes.jpg)
 
 - 考题
   - 中国古代教育特点  —  <span style='color:green'>劳教脱离有阶级</span>（教育和生产劳动严重脱离）
 
 #### 教育的产生与发展的总结：
 
-![](http://pic.yuti.site/Teach-TeachDevelopmentTotally.jpg)
+![](https://blogres.yuti.site/Teach-TeachDevelopmentTotally.jpg)
 
 
 
@@ -210,7 +210,7 @@ tags: 考证
 
 #### 教育学的产生与发展
 
-![](http://pic.yuti.site/Teach-TeachPeopleWorks.jpg)
+![](https://blogres.yuti.site/Teach-TeachPeopleWorks.jpg)
 
 ## 专题三：教育与社会的发展
 
@@ -288,7 +288,7 @@ tags: 考证
 
 #### 教育与社会的发展的总结：
 
-![Teach-EducationSocial](http://pic.yuti.site/Teach-EducationSocial.jpg)
+![Teach-EducationSocial](https://blogres.yuti.site/Teach-EducationSocial.jpg)
 
 
 
@@ -351,7 +351,7 @@ tags: 考证
 
 #### 教育与人的发展总结：
 
-![](http://pic.yuti.site/Teach-PeopleDevelopment.jpg)
+![](https://blogres.yuti.site/Teach-PeopleDevelopment.jpg)
 
 
 
@@ -423,7 +423,7 @@ tags: 考证
 
 #### 教育制度和教育目的的总结：
 
-![](http://pic.yuti.site/Teach-TeachGoal.jpg)
+![](https://blogres.yuti.site/Teach-TeachGoal.jpg)
 
 > 内容真多，整理的都快吐了，还要背。。。
 >

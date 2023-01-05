@@ -79,7 +79,7 @@ toc: true
 材料分析题
 ```
 
-![](http://pic.yuti.site/Teach-TeachingPrinciples.jpg)
+![](https://blogres.yuti.site/Teach-TeachingPrinciples.jpg)
 
 ### <span style='color:red'>**考点6：教学方法**</span>
 
@@ -87,7 +87,7 @@ toc: true
 单选题(例子) + 材料分析题
 ```
 
-![](http://pic.yuti.site/Teach-TeachingMethod.jpg)
+![](https://blogres.yuti.site/Teach-TeachingMethod.jpg)
 
 ### 考点7：教学组织形式
 
@@ -95,7 +95,7 @@ toc: true
 单选题 + 简答题(一级)
 ```
 
-![](http://pic.yuti.site/Teach-TeachingOrganization.jpg)
+![](https://blogres.yuti.site/Teach-TeachingOrganization.jpg)
 
 ### 考点8：教学评价
 
@@ -119,4 +119,4 @@ toc: true
 
 ### 总结
 
-![](http://pic.yuti.site/Teach-TeachingMiddle.jpg)
+![](https://blogres.yuti.site/Teach-TeachingMiddle.jpg)

@@ -24,25 +24,25 @@ monkeyrunner.bat address\name.py
 
 Open Eclipse -> help -> Install New Software -> Work with中输入:http://pydev.org/updates -> 选择PyDev进行安装
 
- ![](http://pic.yuti.site/PyDevInstall.png)
+ ![](https://blogres.yuti.site/PyDevInstall.png)
 
 ### 2、PyDev中配置Jython、Monkeyrunner环境
 
 * Step1：找到Jython解析器的Jar包并解压(.jar可右击进行解压，解压时最好先创建一个文件夹保存解压出的文件)
 
-  ![](http://pic.yuti.site/Monkeyrunner_Jython.png)
+  ![](https://blogres.yuti.site/Monkeyrunner_Jython.png)
 
   
 
 * Step2：将解压得到的Lib文件放到jython-standalone-2.5.2.jar的同级目录下
 
-  ![](http://pic.yuti.site/Monkeyrunner_Lib.jpg)
+  ![](https://blogres.yuti.site/Monkeyrunner_Lib.jpg)
 
 
 
 * Step3：click Windows -> References ->  PyDev -> Jypthon Interpreter -> click Browse for Jython jar
 
-  ![](http://pic.yuti.site/Monkeyrunner_JythonNew.jpg)
+  ![](https://blogres.yuti.site/Monkeyrunner_JythonNew.jpg)
 
   
 
@@ -60,7 +60,7 @@ Open Eclipse -> help -> Install New Software -> Work with中输入:http://pydev.
 
 * Step5：click Windows -> References ->  PyDev -> Jypthon Interpreter -> click New Jar/Zip(s)
 
-  ![](http://pic.yuti.site/Monkeyrunner_JythonOtherjar.png)
+  ![](https://blogres.yuti.site/Monkeyrunner_JythonOtherjar.png)
 
   
 
@@ -72,7 +72,7 @@ Open Eclipse -> help -> Install New Software -> Work with中输入:http://pydev.
 
 * Step1：File -> New -> Project -> PyDev -> PyDev Project ->填写相应内容(如下)
 
-  ![](http://pic.yuti.site/Monkeyrunner_Project.png)
+  ![](https://blogres.yuti.site/Monkeyrunner_Project.png)
 
   
 
@@ -82,7 +82,7 @@ Open Eclipse -> help -> Install New Software -> Work with中输入:http://pydev.
 
 * Step2：File -> New -> PyDev Module -> 填写文件名称
 
-  ![](http://pic.yuti.site/Monkeyrunner_Module.png)
+  ![](https://blogres.yuti.site/Monkeyrunner_Module.png)
 
 到这里我们就把文件创建好了，是不是很激动，我们可以进行敲代码，啊哈，爽，写完，运行，可就是不能成功，在sublime中可以执行的文件，怎么到Eclipse中，不行了，我找到了一个解决办法，往下看。
 
@@ -90,13 +90,13 @@ Open Eclipse -> help -> Install New Software -> Work with中输入:http://pydev.
 
 * Step1：Run -> External Tools -> External Tools Configurations -> 根据下图⤵进行配置！
 
-  ![](http://pic.yuti.site/Monkeyrunner_Run.jpg)
+  ![](https://blogres.yuti.site/Monkeyrunner_Run.jpg)
 
   
 
   &
 
-  ![](http://pic.yuti.site/MonkeyRunner_Running.jpg)
+  ![](https://blogres.yuti.site/MonkeyRunner_Running.jpg)
 
   
 

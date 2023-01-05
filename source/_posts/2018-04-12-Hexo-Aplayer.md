@@ -46,7 +46,7 @@ ok,下面就是如何使用啦,见证奇迹的时刻到了。
 下面我给出一个实际的例子
 
 ```
-{% aplayer "最美的期待" "周笔畅" "http://music.yuti.site/music-%E6%9C%80%E7%BE%8E%E7%9A%84%E6%9C%9F%E5%BE%85.mp3" "http://music.yuti.site/pic-%E6%9C%80%E7%BE%8E%E7%9A%84%E6%9C%9F%E5%BE%85.jpg" "autoplay" %}
+{% aplayer "最美的期待" "周笔畅" "https://blogres.yuti.site/music-%E6%9C%80%E7%BE%8E%E7%9A%84%E6%9C%9F%E5%BE%85.mp3" "https://blogres.yuti.site/pic-%E6%9C%80%E7%BE%8E%E7%9A%84%E6%9C%9F%E5%BE%85.jpg" "autoplay" %}
 
 ```
 
@@ -62,12 +62,12 @@ ok,下面就是如何使用啦,见证奇迹的时刻到了。
 
 
 ```
-{% dplayer "url=http://music.yuti.site/mv-%E5%AD%A6%E4%B8%8D%E4%BC%9A.mp4" "loop=yes" "theme=#FADFA3" "token=tokendemo" %}
+{% dplayer "url=https://blogres.yuti.site/mv-%E5%AD%A6%E4%B8%8D%E4%BC%9A.mp4" "loop=yes" "theme=#FADFA3" "token=tokendemo" %}
 
 ```
 
 
-{% dplayer "url=http://music.yuti.site/mv-%E5%AD%A6%E4%B8%8D%E4%BC%9A.mp4" "loop=yes" "theme=#FADFA3" "token=tokendemo" %}
+{% dplayer "url=https://blogres.yuti.site/mv-%E5%AD%A6%E4%B8%8D%E4%BC%9A.mp4" "loop=yes" "theme=#FADFA3" "token=tokendemo" %}
 <center><p>学不会</p></center>
 
 马郁这是我在小学五六年级最喜欢的歌手，当时的我一有空就拿着复读机听她的歌，我在考研的那个阶段又偶然间听到这首歌，心中没有澎湃与激动，只有平静，脑海里只是浮现着冬天，田地，小姑娘组成的画面。

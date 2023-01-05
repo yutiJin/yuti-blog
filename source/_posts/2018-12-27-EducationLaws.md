@@ -11,7 +11,7 @@ tags: 考证
 
 我们来看看下面的思维导图。。。（有点多，尽力吧，少年）
 
-![法律法规考点整理](http://pic.yuti.site/LawTotally.png)
+![法律法规考点整理](https://blogres.yuti.site/LawTotally.png)
 
 ## 第一章节
 

@@ -21,7 +21,7 @@ tags:
 先创建一个java项目，再导入相应的jar包也可以，但是我感觉Maven更加方便。
 
 步骤：File -> New Project -> Maven(导入Android SDK包) -> next -> 填入GroupId、ArtifactId即可创建
-![](http://pic.yuti.site/mavenBuild)
+![](https://blogres.yuti.site/mavenBuild)
 
 ### 2、pom.xml内容添加
 这里面填写的就是我们需要的依赖包，话不多说，直接上代码。
@@ -120,7 +120,7 @@ public class TestDemo {
 最后打开Appium，并点击运行，你就可以静等最后的效果啦。当然了，前提是你必须要自行安装Appium和Maven。可自行问度娘。
 
 **注意1**：打开Appium的时候得进行如下修改，目的是为了跟代码匹配
-![](http://pic.yuti.site/appiumStart)
+![](https://blogres.yuti.site/appiumStart)
 
 **注意2**：以上代码有真机和虚拟机之分，如果是采用真机的方式，一定要用`adb devices`语句查看确保真机已经连接成功了。如果提示adb不是内部或外部命令，请自行安装。
 
@@ -136,7 +136,7 @@ public class TestDemo {
 修改文件driver.js的地址路径：
 C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\build\lib
 ```
-![](http://pic.yuti.site/driverChange)
+![](https://blogres.yuti.site/driverChange)
 在下面添加 'name' 即可。
 
 ### 2、版本问题
@@ -169,7 +169,7 @@ Android自带一个`uiautomatorviewer.bat`这个工具非常棒，他可以截�
 C:\Users\Administrator\AppData\Local\Android\Sdk\tools\bin
 ```
 但是我遇到了一个很奇怪，之前没有遇到过的问题，如下图
-![](http://pic.yuti.site/uiautomatorviewer.png)
+![](https://blogres.yuti.site/uiautomatorviewer.png)
 
 我百度了好多，是要修改什么root，或者是修改uiautomatorviewer.bat里的call代码，对我来说统统没有用，最后是靠这两句代码解决的。
 

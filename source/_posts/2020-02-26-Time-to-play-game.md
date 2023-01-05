@@ -12,7 +12,7 @@ tags: life
 
 ## 1. 足不出户的我都在干什么
 
-<img src="http://pic.yuti.site/20200226193142.jpeg" style="zoom:25%;" />
+<img src="https://blogres.yuti.site/20200226193142.jpeg" style="zoom:25%;" />
 
 
 
@@ -44,7 +44,7 @@ tags: life
 
 **大学之路 - 陪女儿在美国选大学  吴军**
 
-<img src="http://pic.yuti.site/20200226193336.jpg" style="zoom:50%;" />
+<img src="https://blogres.yuti.site/20200226193336.jpg" style="zoom:50%;" />
 
 2020年1月29号 - 2020年2月26号，历经快一个月的时间终于看完了唯一一本书，真真是太太太不容易了~
 

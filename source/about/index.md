@@ -17,7 +17,7 @@ comments: false
 
 ## 公众号
 
-![](http://pic.yuti.site/yuti-logo-wechat.jpg)
+![](https://blogres.yuti.site/yuti-logo-wechat.jpg)
 
 ## Email
 
